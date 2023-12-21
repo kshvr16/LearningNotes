@@ -84,12 +84,14 @@ my_height = 58
 my_lat = 40
 my_long = 105
 ```
+
 __*NOT THIS*__
 ```Python
 my height = 58
 MYLONG = 40
 MyLat = 105
 ```
+
 ```
 Although the last two of these would work in Python, they are not pythonic ways to name variables.
 ```
